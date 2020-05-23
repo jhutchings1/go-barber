@@ -4,3 +4,4 @@ temp/*
 .env
 ormconfig.json
 .DS_Store
+yarn.lock
